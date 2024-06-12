@@ -1,0 +1,24 @@
+Nombre del producto: Vestido blanco satinado con tiras cruzadas y abertura, Precio: 46.0
+Nombre del producto: Vestido verde menta con manga larga y abertura, Precio: 58.0
+Nombre del producto: Vestido morado chifón de cuello en V asimétrico, Precio: 62.0
+Nombre del producto: Vestido rojo burdeos chifón midi de manga capa, Precio: 46.0
+Nombre del producto: Vestido fucsia satinado con tablones de un hombro, Precio: 46.0
+Nombre del producto: Vestido verde menta de manga larga y fruncido, Precio: 58.0
+Nombre del producto: Vestido azul real con lentejuelas de tiras y abertura, Precio: 74.0
+Nombre del producto: Vestido azul marino midi asimétrico con encaje, Precio: 55.0
+Nombre del producto: Vestido estampado floral naranja con cuello en V, Precio: 52.0
+Nombre del producto: Enterizo plus rojo burdeos de cuello en V y manga corta, Precio: 46.0
+Nombre del producto: Enterizo rojo burdeos con filos dorados y pierna ancha, Precio: 44.0
+Nombre del producto: Vestido verde menta de tiras y abertura con vuelos, Precio: 62.0
+Nombre del producto: Vestido verde menta alicrado con fruncido, Precio: 42.0
+Nombre del producto: Vestido blanco chifón de cuello en V y abertura, Precio: 48.0
+Nombre del producto: Vestido celeste chifón de tiras y fruncido, Precio: 62.0
+Nombre del producto: Vestido azul marino con lentejuelas de manga larga y abertura con fruncido, Precio: 46.0
+Nombre del producto: Enterizo caqui de pierna ancha con cinturón, Precio: 42.0
+Nombre del producto: Vestido caoba de manga larga y tablones, Precio: 44.0
+Nombre del producto: Vestido fucsia con tablones y fruncido, Precio: 48.0
+Nombre del producto: Enterizo rojo con cuello en V y pierna ancha con bolsillos, Precio: 46.0
+Nombre del producto: Enterizo jumper corto blanco y azul con manga, Precio: 40.0
+Nombre del producto: Vestido estampado floral corto verde de una manga, Precio: 38.0
+Nombre del producto: Vestido dorado y plateado con lentejuelas de tiras y abertura, Precio: 72.0
+Nombre del producto: Vestido blanco con lentejuelas tipo corset y abertura, Precio: 62.0

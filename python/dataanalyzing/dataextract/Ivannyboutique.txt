@@ -1,0 +1,28 @@
+Nombre del producto: VESTIDO LIDIA, Precio: 148.0
+Nombre del producto: VESTIDO VANESSA, Precio: 145.0
+Nombre del producto: PANTALON RAPHAELA, Precio: 79.0
+Nombre del producto: CHOMPA MARIA ELISA, Precio: 95.0
+Nombre del producto: VESTIDO SUSANA, Precio: 159.0
+Nombre del producto: VESTIDO CELIA, Precio: 174.0
+Nombre del producto: VESTIDO PAOLA VERDE, Precio: 239.0
+Nombre del producto: VESTIDO GINA, Precio: 104.0
+Nombre del producto: VESTIDO BARBARA, Precio: 97.0
+Nombre del producto: VESTIDO LEYLA, Precio: 124.0
+Nombre del producto: VESTIDO SARA, Precio: 158.0
+Nombre del producto: CONJUNTO CARMEN NEGRO, Precio: 125.0
+Nombre del producto: CONJUNTO CARMEN BLANCO, Precio: 125.0
+Nombre del producto: CONJUNTO CARMEN CELESTE, Precio: 125.0
+Nombre del producto: CHAQUETA CRISTINA NEGRA, Precio: 87.0
+Nombre del producto: CHAQUETA CRISTINA BEIGE, Precio: 87.0
+Nombre del producto: BLUSA MARIA EMILIA BLANCA, Precio: 44.25
+Nombre del producto: BLUSA MARIA EMILIA CELESTE, Precio: 44.25
+Nombre del producto: BLUSA MARIA EMILIA NARANJA, Precio: 44.25
+Nombre del producto: VESTIDO LORENA, Precio: 139.0
+Nombre del producto: VESTIDO MARIA ALEJANDRA, Precio: 165.0
+Nombre del producto: VESTIDO CARLA, Precio: 189.0
+Nombre del producto: VESTIDO KEILA, Precio: 174.0
+Nombre del producto: VESTIDO ALEGRIA, Precio: 152.0
+Nombre del producto: VESTIDO PRISCILA, Precio: 155.0
+Nombre del producto: VESTIDO ALEXANDRA CHAMPAGNE, Precio: 145.0
+Nombre del producto: VESTIDO ALEXANDRA BLANCO, Precio: 145.0
+Nombre del producto: VESTIDO LUCIANA, Precio: 169.0
